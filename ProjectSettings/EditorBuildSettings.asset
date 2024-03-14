@@ -11,12 +11,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Meta XR Interaction SDK OVR Samples/62.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity
     guid: 10824ac1a08b9a0459de4c071e1db2aa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/buildingBlockTest.unity
     guid: 0953a2144bb27804e9893ec53ec1339b
   - enabled: 0
     path: Assets/Samples/Meta XR Interaction SDK OVR Samples/62.0.0/Example Scenes/ComprehensiveRigExample.unity
     guid: 2efe93cb8972cae439bfba2dcd4165f0
+  - enabled: 0
+    path: Assets/Random 1.unity
+    guid: 3a6e00b2e1528cf48a976cb972c54c72
+  - enabled: 1
+    path: Assets/baseScene1.unity
+    guid: a76cf80ff653815448fa97802cb6cf71
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 10bf8c088ba08494b87b4f7fa420a41f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac88873d136b42440abb1e26faf8436f, type: 2}
